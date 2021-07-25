@@ -4,7 +4,7 @@ Dataset dapat diakses pada link berikut: https://github.com/fahmimnalfrzki/Datas
 
 ## Problems
 
-bekerja di salah satu perusahaan manufaktur baterai Lithium ion. Tim produksi meminta kamu untuk mengecek apakah baterai yang mereka buat dalam kondisi bagus atau tidak. Sebelum melakukan pengecekan lebih lanjut, kamu diminta untuk menghitung hambatan/resistansi dan Daya setiap detik
+Tim produksi di salah satu perusahaan manufaktur baterai Lithium ion meminta untuk mengecek apakah baterai yang mereka buat dalam kondisi bagus atau tidak. Sebelum melakukan pengecekan lebih lanjut, diminta untuk menghitung hambatan/resistansi dan Daya setiap detik
 
 - R adalah Kapasitas dalam satuan Ohm
 - P adalah Daya dalam Watt
